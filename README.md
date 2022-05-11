@@ -1,10 +1,11 @@
 # Web Notepad
 
-开源在线文本文档
+在线文本文档
 
 ## 安装
 
-打开文件 `index.php`, 将 `$base_url` 改为自己的网站域名（也可以是二级域名）.
+打开文件 `index.php`, 将 `$base_url` 改为自己的网站域名+目录名
+（如：http://hehudieyiqi.com/notes,注意区分http和https）;
 
 确保文件夹 `_tmp` 可以写入.
 
